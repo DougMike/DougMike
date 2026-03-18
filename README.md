@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vWidth=600&lines=Olá%2C+sou+Michael+Douglas!+👋;Desenvolvedor+Full+Stack;.NET+%7C+Angular+%7C+SQL+Server" alt="Typing SVG" />
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor Full Stack com foco em **C# / .NET** no back-end e **Angular** no front-end. Apaixonado por arquitetura limpa, boas práticas e código sustentável.
